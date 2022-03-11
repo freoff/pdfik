@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/freoff/pdfik/static/css/main.9fd05d67.css",
+    "main.js": "/freoff/pdfik/static/js/main.78ce865b.js",
+    "static/js/787.a6f88a6e.chunk.js": "/freoff/pdfik/static/js/787.a6f88a6e.chunk.js",
+    "index.html": "/freoff/pdfik/index.html",
+    "main.9fd05d67.css.map": "/freoff/pdfik/static/css/main.9fd05d67.css.map",
+    "main.78ce865b.js.map": "/freoff/pdfik/static/js/main.78ce865b.js.map",
+    "787.a6f88a6e.chunk.js.map": "/freoff/pdfik/static/js/787.a6f88a6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fd05d67.css",
+    "static/js/main.78ce865b.js"
+  ]
+}
